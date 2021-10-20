@@ -1,27 +1,27 @@
 [
   {
-    "name": "Angular"
-    "description": "AngularJS, es un framework de JavaScript de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página."
+    "name": "Angular",
+    "description": "AngularJS, es un framework de JavaScript de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.",
     "image_url": "https://github.com/jmirallesr/fp/blob/main/angular.png?raw=true"
   },
   {
-    "name": "Laravel" 
-    "description": "Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8."
+    "name": "Laravel",
+    "description": "Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8.",
     "image_url": "https://github.com/jmirallesr/fp/blob/main/laravel.png?raw=true"
   },
   {
-    "name": "NodeJS" 
-    "description": "Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google."
+    "name": "NodeJS",
+    "description": "Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.",
     "image_url": "https://github.com/jmirallesr/fp/blob/main/nodejs.png?raw=true"
   },
   {
-    "name": "React" 
-    "description": "React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página."
+    "name": "React",
+    "description": "React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.",
     "image_url": "https://github.com/jmirallesr/fp/blob/main/react.jpg?raw=true"
   },
   {
-    "name": "VueJS"
-    "description": "Vue.js es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página."
+    "name": "VueJS",
+    "description": "Vue.js es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página.",
     "image_url": "https://github.com/jmirallesr/fp/blob/main/vuejs.jpg?raw=true"
   }
 ]
